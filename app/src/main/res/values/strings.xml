@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Word Counter</string>
+    <string name="question">Insert a phrase for counting...</string>
+    <string name="press">Count them words!</string>
+    <string name="main_screen_name">Word Counter</string>
+
+</resources>
